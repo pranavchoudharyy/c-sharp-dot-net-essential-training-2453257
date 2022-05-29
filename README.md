@@ -1,3 +1,5 @@
+Working in Exercise Branch.
+
 # C# and .NET Essential Training
 This is the repository for the LinkedIn Learning course C# and .NET Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
